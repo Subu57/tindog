@@ -1,0 +1,158 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+.icon-img:hover{
+color:#cca8e9;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+font-weight: 900;
+
+}
+h2{
+  font-family: 'Just Another Hand', cursive;
+  font-size: 2rem;
+
+}
+h3
+{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 2rem;
+  color: #ff4c68;
+}
+.container-fluid
+{
+  padding:5% 20%;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.row{
+padding:5% 20%;
+}
+body{
+  font-family: "Montserrat";
+
+
+}
+.pdog{
+  width:60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+#features{
+  background-color: #fff;
+  position: relative;
+}
+.navbar-expand-lg{
+  padding-left: 18%;
+  padding-right: 18%;
+}
+.navbar-brand{
+   font-family: 'Pacifico', cursive;
+   font-size:3rem;
+   padding:0px;
+   margin-right: 0px;
+}
+.nav-item{
+  font-family: 'Just Another Hand', cursive;
+  font-size:2rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+.btn{
+  margin: 15% 4% 5% 0%;
+}
+.icon{
+  text-align: center;
+
+}
+.icon-img{
+  margin: 1rem;
+  color:#cca8e9;
+}
+.icon-img:hover{
+  color:#ff4c68;
+}
+#testimonials{
+  background-color: #cca8e9;
+  color: white;
+  text-align: center;
+}
+.carousel-item{
+  padding: 7% 10%;
+}
+.pebbles{
+  width: 15%;
+  border-radius: 100%;
+  margin: 5%;
+}
+#press{
+
+  padding-bottom: 7%;
+  text-align: center;
+}
+.pimg{
+  width: 15%;
+  margin: 3%;
+}
+.card{
+  margin:3%;
+}
+.card-header{
+  text-align: center;
+}
+
+}
+#pricing{
+text-align: center;
+  margin-top: 5%;
+}
+.pricing-top{
+  text-align: center;
+  margin-top:3%;
+}
+@media screen and (max-width: 1028px){
+  .pdog{
+    position: static;
+    transform: rotate(0);
+    padding-top: 8%;
+  }
+  #title{
+    text-align: center;
+  }
+  .nav-brand{
+    margin-right: 10px;
+  }
+}
+
+#cta{
+  padding:5% 20%;
+  background-color:#ff4c68;
+  color:#fff;
+  text-align: center;
+}
+.cta-test{
+  font-family: 'Pacifico', cursive;
+  font-size: 2rem;
+  color:#fff;
+}
+#footer{
+padding:7% 20%;
+text-align: center;
+}
+.footer-img
+{
+  margin:20px 10px;
+}
+.card-body{
+  text-align: center;
+}
